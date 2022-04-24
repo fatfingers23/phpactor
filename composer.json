@@ -1,5 +1,5 @@
 {
-    "name": "phpactor/phpactor",
+    "name": "fatfingers/phpactor",
     "description": "PHP refactoring and intellisense tool for text editors",
     "license": "MIT",
     "require": {
