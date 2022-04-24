@@ -21,7 +21,7 @@
         "phpactor/language-server": "^2.1.0",
         "dantleech/object-renderer": "^0.1.1",
         "phpactor/language-server-protocol": "~0.3.0",
-        "monolog/monolog": "^1.23",
+        "monolog/monolog": "^2.0",
         "sebastian/diff": "^4.0",
         "webmozart/glob": "^4.4",
         "symfony/filesystem": "^5.4",
